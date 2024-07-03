@@ -1,0 +1,2 @@
+arm_keyboard:custom_message
+-DCATKIN_DEVEL_PREFIX=/home/tongthai/arm_contorller/devel -DCMAKE_INSTALL_PREFIX=/home/tongthai/arm_contorller/install -G Unix Makefiles

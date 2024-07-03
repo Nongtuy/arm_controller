@@ -1,0 +1,8 @@
+prefix=/home/tongthai/arm_contorller/devel
+
+Name: arm_keyboard
+Description: Description of arm_keyboard
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
